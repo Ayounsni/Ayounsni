@@ -1,9 +1,12 @@
 <h1 align="center">Bonjour 👋, Je suis SNINI AYOUB</h1>
+
 <h3 align="center">Développeur Logiciel | Passionné de Technologie | Toujours en quête de solutions innovantes</h3>
+
 <p align="center"> Je suis passionné 
 par la création de logiciels qui répondent à des problématiques réelles. Mes intérêts vont du développement backend à la conception frontend, et j'adore travailler avec les dernières technologies.
 </p>
-- 📫 For professional discussions, contact me at **ayoubsnini@gmail.com**  
+
+- 📫 For professional discussions, contact me at **ayoubsnini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
